@@ -1,0 +1,91 @@
+JSON = 
+produit ={
+    "eclairage1": [
+        {
+            "img": "./assets/img/eclairage1.png",
+            "offre": "offre speciale",
+            "titreProduit": "Cameo TS 200 FC LED Theater",
+            "sousTitre": "spot",
+            "prix1": "980",
+            "prix2": "798",
+            "img": "g",
+        },
+    ],
+    "eclairage2": [
+        {
+            "img": "./assets/img/eclairage1.png",
+            "offre": "offre speciale",
+            "titreProduit": "Cameo TS 200 FC LED Theater",
+            "sousTitre": "spot",
+            "prix1": "980",
+            "prix2": "798",
+            "img": "g",
+        },
+    ],
+    "eclairage3": [
+        {
+            "img": "./assets/img/eclairage1.png",
+            "offre": "offre speciale",
+            "titreProduit": "Cameo TS 200 FC LED Theater",
+            "sousTitre": "spot",
+            "prix1": "980",
+            "prix2": "798",
+            "img": "g",
+        },
+    ],
+    "eclairage4": [
+        {
+            "img": "./assets/img/eclairage1.png",
+            "offre": "offre speciale",
+            "titreProduit": "Cameo TS 200 FC LED Theater",
+            "sousTitre": "spot",
+            "prix1": "980",
+            "prix2": "798",
+            "img": "g",
+        },
+    ],
+    "eclairage5": [
+        {
+            "img": "./assets/img/eclairage1.png",
+            "offre": "offre speciale",
+            "titreProduit": "Cameo TS 200 FC LED Theater",
+            "sousTitre": "spot",
+            "prix1": "980",
+            "prix2": "798",
+            "img": "g",
+        },
+    ],
+    "eclairage6": [
+        {
+            "img": "./assets/img/eclairage1.png",
+            "offre": "offre speciale",
+            "titreProduit": "Cameo TS 200 FC LED Theater",
+            "sousTitre": "spot",
+            "prix1": "980",
+            "prix2": "798",
+            "img": "g",
+        },
+    ],
+    "eclairage7": [
+        {
+            "img": "./assets/img/eclairage1.png",
+            "offre": "offre speciale",
+            "titreProduit": "Cameo TS 200 FC LED Theater",
+            "sousTitre": "spot",
+            "prix1": "980",
+            "prix2": "798",
+            "img": "g",
+        },
+    ],
+    "eclairage8": [
+        {
+            "img": "./assets/img/eclairage1.png",
+            "offre": "offre speciale",
+            "titreProduit": "Cameo TS 200 FC LED Theater",
+            "sousTitre": "spot",
+            "prix1": "980",
+            "prix2": "798",
+            "img": "g",
+        },
+    ],
+}
